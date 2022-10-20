@@ -6,3 +6,5 @@
 -  [Docker| containerize application](https://www.docker.com/)
 -  [Zenml| ML pipeline framework](https://zenml.io/home)
 -  [FastAPI](https://fastapi.tiangolo.com/)
+## Free Course 
+- [Full Stack  Deep Learning|Youtube](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
