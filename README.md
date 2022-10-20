@@ -4,3 +4,4 @@
 -  [Evidentlyai for model monitoring](https://docs.evidentlyai.com/)
 -  [Airflow](https://airflow.apache.org/docs/)
 -  [Docker| containerize application](https://www.docker.com/)
+-  [Zenml| ML pipeline framework](https://zenml.io/home)
