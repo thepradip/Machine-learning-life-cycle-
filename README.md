@@ -8,3 +8,4 @@
 -  [FastAPI](https://fastapi.tiangolo.com/)
 ## Free Course 
 - [Full Stack  Deep Learning|Youtube](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
+- [made with ml](https://madewithml.com/)
