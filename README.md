@@ -5,3 +5,4 @@
 -  [Airflow](https://airflow.apache.org/docs/)
 -  [Docker| containerize application](https://www.docker.com/)
 -  [Zenml| ML pipeline framework](https://zenml.io/home)
+-  [FastAPI](https://fastapi.tiangolo.com/)
